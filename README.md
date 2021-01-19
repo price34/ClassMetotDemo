@@ -1,0 +1,3 @@
+# ClassMetotDemo
+
+//FOR KODLAMA.IO HOMEWORK
